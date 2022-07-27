@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ale/.config'
+let g:netrw_dirhist_2='/home/ale/.config/fish'
+let g:netrw_dirhist_3='/home/ale/rust/doublylinkedlist/src'
+let g:netrw_dirhist_4='/home/ale/.sfdx'
+let g:netrw_dirhist_5='/home/ale/rust/avl_trees/target/debug/incremental/bst_test-77ikz4nll29e'
